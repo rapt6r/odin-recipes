@@ -1,0 +1,33 @@
+.text {
+    font-family: Arial;
+}
+
+.background_color {
+    background-color: lightgray;
+}
+
+.image_border {
+    border: 8px solid; 
+}
+
+.title {
+    display: block;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.title h1 {
+    background-color: lightblue;
+    padding: 8px;
+    border: 4px solid;
+
+}
+
+.title h2 {
+    background-color: lightblue;
+    padding: 8px;
+    border: 4px solid;
+
+
+}
